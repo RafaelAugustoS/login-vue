@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Diego",
+      "email": "diego@angis.com.br",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Vanderson",
+      "email": "vanderson@angis.com.br",
+      "password": "vanderson123",
+      "id": 4
+    },
+    {
+      "name": "Alex",
+      "email": "alex@angis.com.br",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Rafael",
+      "email": "rafael@angis.com.br",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Gabriel",
+      "email": "gabriel@angis.com.br",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "dsadas",
+      "email": "dsad@dfsad.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda@angis.com.br",
+      "password": "123",
+      "id": 10
+    }
+  ],
+  "posts": []
+}
